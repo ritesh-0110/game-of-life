@@ -458,13 +458,13 @@
     <distributionManagement>
     <repository>
         <id>nexus</id>
-      <name>simple-maven-release</name>
-        <url>http://16.16.91.24:8081/repository/simple-maven-release/</url>
+      <name>game-of-life-release</name>
+        <url>http://13.48.204.52:8081/repository/game-of-life-release/</url>
     </repository>
     <snapshotRepository>
         <id>nexus</id>
-      <name>simple-maven-snapshot</name>
-        <url>http://16.16.91.24:8081/repository/simple-maven-snapshot/</url>
+      <name>game-of-life-snap</name>
+        <url>http://13.48.204.52:8081/repository/game-of-life-snap/</url>
     </snapshotRepository>
   </distributionManagement>
 </project>
