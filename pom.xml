@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.wakaleo.gameoflife</groupId>
     <artifactId>gameoflife</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
     <packaging>pom</packaging>
     <name>gameoflife</name>
     <url>https://github.com/wakaleo/game-of-life</url>
@@ -459,12 +459,12 @@
     <repository>
         <id>nexus</id>
       <name>game-of-life-release</name>
-        <url>http://16.170.7.143:8081/repository/game-of-life-release/</url>
+        <url>http://13.50.239.82:8081/repository/game-of-life-release/</url>
     </repository>
     <snapshotRepository>
         <id>nexus</id>
       <name>game-of-life-snapshot</name>
-        <url>http://16.170.7.143:8081/repository/game-of-life-snapshot/</url>
+        <url>http://13.50.239.82:8081/repository/game-of-life-snapshot/</url>
     </snapshotRepository>
   </distributionManagement>
 </project>
